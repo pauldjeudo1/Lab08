@@ -10,6 +10,7 @@ import java.io.IOException;
 
 /**
  * JavaFX App
+ * GitHub Link: https://github.com/pauldjeudo1/Lab08.git
  */
 public class App extends Application {
 
